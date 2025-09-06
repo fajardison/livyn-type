@@ -1,0 +1,55 @@
+{
+  "name": "@livyn/type",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A comprehensive JavaScript/Node.js utility library for type detection and type conversion.",
+  "exports": {
+    "import": "./index.js",
+    "default": "./index.js"
+  },
+  "sideEffects": false,
+  "scripts": {
+    "test.datatype": "node samples/testDataType.js",
+    "test.asserttype": "node samples/testAssertType.js",
+    "test.istype": "node samples/testIsType.js",
+    "test.totype": "node samples/testToType.js",
+    "test.tostring": "node samples/converter/testToString.js",
+    "test.toboolean": "node samples/converter/testToBoolean.js",
+    "test.tonumber": "node samples/converter/testToNumber.js",
+    "test.tobigint": "node samples/converter/testToBigInt.js",
+    "test.toarray": "node samples/converter/testToArray.js",
+    "test.todate": "node samples/converter/testToDate.js",
+    "test.toobject": "node samples/converter/testToObject.js",
+    "test.toregexp": "node samples/converter/testToRegExp.js"
+  },
+  "files": [
+    "type/",
+    "convert/",
+    "index.js",
+    "CHANGELOG.md",
+    "LICENSE",
+    "README.md"
+  ],
+  "author": "Dimas Fajar",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "homepage": "https://github.com/fajardison/livyn-type",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fajardison/livyn-type.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fajardison/livyn-type/issues"
+  },
+  "keywords": [
+    "livyn",
+    "type",
+    "datatype",
+    "type-detection",
+    "type-conversion",
+    "utility",
+    "esm"
+  ]
+}
