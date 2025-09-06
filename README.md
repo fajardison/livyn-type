@@ -2,7 +2,6 @@
 ![License](https://img.shields.io/npm/l/@livyn/type)
 ![ESM](https://img.shields.io/badge/javascript-ESM-orange)
 ![Node](https://img.shields.io/badge/node-%3E=18.0.0-green)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 # @livyn/type
 
