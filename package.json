@@ -17,6 +17,8 @@
   "files": [
     "type/",
     "convert/",
+    "utils/",
+    "samples/",
     "index.js",
     "CHANGELOG.md",
     "LICENSE",
