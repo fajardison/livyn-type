@@ -12,15 +12,7 @@
     "test.datatype": "node samples/testDataType.js",
     "test.asserttype": "node samples/testAssertType.js",
     "test.istype": "node samples/testIsType.js",
-    "test.totype": "node samples/testToType.js",
-    "test.tostring": "node samples/converter/testToString.js",
-    "test.toboolean": "node samples/converter/testToBoolean.js",
-    "test.tonumber": "node samples/converter/testToNumber.js",
-    "test.tobigint": "node samples/converter/testToBigInt.js",
-    "test.toarray": "node samples/converter/testToArray.js",
-    "test.todate": "node samples/converter/testToDate.js",
-    "test.toobject": "node samples/converter/testToObject.js",
-    "test.toregexp": "node samples/converter/testToRegExp.js"
+    "test.totype": "node samples/testToType.js"
   },
   "files": [
     "type/",
